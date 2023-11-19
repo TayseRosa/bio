@@ -35,7 +35,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Developed with ❤️ by Tayse {Code} Rosa 🚀
 
-👋🏽 Entre em contato!
+👋🏽 Entre em contato comigo!
 
-Instagram:
-<a href="https://www.bio.coderosa.tech" title="Tayse Code Rosa" target="_blank"> Entre em contato comigo  </a>
+<a href="https://bio.coderosa.tech/" target="_blank"> Entre em contato comigo  </a>
