@@ -1,13 +1,11 @@
 /*
-  =>  Template Name    : AwesomeFolio - Awesome Portfolio Template
+  =>  Template Name    : Tayse {Code} Rosa • Bio
 
-  =>  Template Link    : https://www.orangedigital.net/devfolio
+  =>  Template Link    : https://bio.coderosa.tech/
 
-  =>  Template Author  : Orange Digital
+  =>  Template Author  : Tayse {Code} Rosa
 
-  =>  Author Website   : https://www.orangedigital.net
-
-  =>  About Orange Digital : Orange Digital is a general HTML template creator. Read more at (https://www.orangedigital.net)
+  =>  Author Website   : https://coderosa.tech/
 
   =>  Version: 1.0
 */
@@ -651,10 +649,6 @@ body {
   }
 /*========== card2 ==========*/
 .card2 {
-  /*
-  
-  box-sizing: border-box;
-  */
   overflow: hidden;
   position: relative;
   border-radius: 25px;
@@ -906,3 +900,22 @@ span a:hover{
     .center p{
       margin-top: 50px;
     }
+
+/*========== RESPONSIVE ==========*/    
+@media (max-width: 480px) {
+  .card2{
+    width: 95%;
+  }
+
+  .card2 h2{
+    font-size: 1.7rem;
+  }
+  
+  .left{
+    margin-top: 20px !important;
+  }
+
+  .wrapper{
+    margin-left:-50px;
+  }
+}
